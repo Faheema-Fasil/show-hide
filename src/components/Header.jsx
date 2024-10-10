@@ -12,7 +12,7 @@ function Header() {
         <MDBContainer fluid>
           <MDBNavbarBrand href='#'>
             <img
-              src='https://cdn.dribbble.com/users/500317/screenshots/2577605/badmailrender.gif'
+              src='https://www.intelligentvc.co.uk/wp-content/uploads/2015/11/animated-email.gif'
               height='60'
               alt=''
             />
