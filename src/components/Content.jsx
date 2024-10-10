@@ -17,7 +17,7 @@ function hide() {
   return (
     <div>
       
-      <div className="main" style={{border:"1px solid blue",padding:"10vh", margin:"8vh 70vh",display:"flex",justifyContent:"center",backgroundColor:"Highlight"}}>
+      <div className="main" style={{border:"1px solid blue",padding:"6vh", margin:"15vh 70vh",display:"flex",justifyContent:"center",backgroundColor:"Highlight"}}>
         <div className="img-main">
             <img width={"300vh"} src="https://i.gifer.com/C0Aq.gif" alt="" />
             <div className="msg mt-2" style={{textAlign:"center",fontWeight:"bolder",fontSize:"20px",color:"white"}}>
